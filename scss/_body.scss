@@ -1,0 +1,5 @@
+body {
+    background-color: map-get($mapa,fondo) !important;
+    color: map-get($mapa, color) !important; 
+    font-family: map-get($mapa, fuente) !important; 
+}

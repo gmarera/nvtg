@@ -1,0 +1,37 @@
+body {
+  background-color: #313A40 !important;
+  color: #F2EAE4 !important;
+  font-family: Lexend !important;
+}
+
+.navbar a {
+  color: #F2EAE4 !important;
+}
+
+.navbar a:hover {
+  color: #ACF2F2 !important;
+  background-color: black;
+  border-radius: 10px;
+}
+
+/* Start: Video Responsive */
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 400px; /* Adecua este valor para controlar la altura del video */
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/* End: Video Responsive */
+.shows, .integrantes {
+  list-style: none;
+  line-height: 3ex;
+}/*# sourceMappingURL=estilo.css.map */
