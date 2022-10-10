@@ -34,10 +34,4 @@ body {
 .shows, .integrantes {
   list-style: none;
   line-height: 3ex;
-}
-
-@media (max-width: 768px) {
-  #carouselExampleIndicators {
-    display: none;
-  }
 }/*# sourceMappingURL=estilo.css.map */
