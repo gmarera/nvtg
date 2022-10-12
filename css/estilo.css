@@ -37,7 +37,17 @@ body {
   margin-bottom: 10px;
 }
 
+.youtube {
+  text-decoration: none;
+  text-transform: inherit;
+}
+
 .shows, .integrantes {
   list-style: none;
   line-height: 3ex;
+}
+
+.spotify {
+  text-decoration: none;
+  text-transform: inherit;
 }/*# sourceMappingURL=estilo.css.map */
